@@ -1,0 +1,1 @@
+"Venv/Scripts/activate.bat" && python main.py
